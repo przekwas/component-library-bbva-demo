@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/components-bbva-demo/static/js/main.f75c02de.chunk.js",
-    "main.js.map": "/components-bbva-demo/static/js/main.f75c02de.chunk.js.map",
-    "runtime-main.js": "/components-bbva-demo/static/js/runtime-main.ca94c527.js",
-    "runtime-main.js.map": "/components-bbva-demo/static/js/runtime-main.ca94c527.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/components-bbva-demo/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.7f39cf8a.chunk.js": "/components-bbva-demo/static/js/2.7f39cf8a.chunk.js",
-    "static/js/2.7f39cf8a.chunk.js.map": "/components-bbva-demo/static/js/2.7f39cf8a.chunk.js.map",
-    "index.html": "/components-bbva-demo/index.html",
-    "precache-manifest.2d4f3d5338253c6a0fa63b5d1427a8fb.js": "/components-bbva-demo/precache-manifest.2d4f3d5338253c6a0fa63b5d1427a8fb.js",
-    "service-worker.js": "/components-bbva-demo/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/components-bbva-demo/static/css/2.47e06e2e.chunk.css.map",
-    "static/js/2.7f39cf8a.chunk.js.LICENSE.txt": "/components-bbva-demo/static/js/2.7f39cf8a.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "/components-bbva-demo/static/media/profile.a6acfb27.jpg"
+    "main.js": "/component-library-bbva-demo/static/js/main.de6a9a02.chunk.js",
+    "main.js.map": "/component-library-bbva-demo/static/js/main.de6a9a02.chunk.js.map",
+    "runtime-main.js": "/component-library-bbva-demo/static/js/runtime-main.51c49d3d.js",
+    "runtime-main.js.map": "/component-library-bbva-demo/static/js/runtime-main.51c49d3d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/component-library-bbva-demo/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.7f39cf8a.chunk.js": "/component-library-bbva-demo/static/js/2.7f39cf8a.chunk.js",
+    "static/js/2.7f39cf8a.chunk.js.map": "/component-library-bbva-demo/static/js/2.7f39cf8a.chunk.js.map",
+    "index.html": "/component-library-bbva-demo/index.html",
+    "precache-manifest.d5eb7b2c9642135e2e98438ac1639adf.js": "/component-library-bbva-demo/precache-manifest.d5eb7b2c9642135e2e98438ac1639adf.js",
+    "service-worker.js": "/component-library-bbva-demo/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/component-library-bbva-demo/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.7f39cf8a.chunk.js.LICENSE.txt": "/component-library-bbva-demo/static/js/2.7f39cf8a.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/component-library-bbva-demo/static/media/profile.a6acfb27.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca94c527.js",
+    "static/js/runtime-main.51c49d3d.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.7f39cf8a.chunk.js",
-    "static/js/main.f75c02de.chunk.js"
+    "static/js/main.de6a9a02.chunk.js"
   ]
 }
